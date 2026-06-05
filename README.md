@@ -1,10 +1,8 @@
 # Practice Problems
 
-Welcome to the Practice Problems repository.
-
 This repository contains programming practice problems, theory assignments, and lab tasks completed as part of academic coursework. The solutions are primarily implemented in Java and demonstrate various Object-Oriented Programming (OOP) concepts and problem-solving techniques.
 
-## Topics Covered
+## Topics 
 
 - Java Programming
 - Object-Oriented Programming (OOP)
